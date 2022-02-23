@@ -1,0 +1,39 @@
+{
+    "Personal Details": {
+      "Name": "SagarRao",
+      "Email": "sagarrao5537@gmail.com",
+      "Phone": "9656016373",
+      "Degree": "BCOM ongoing",
+      "Location": {
+        "Address": "Palakkad,DolphinNagar",
+        "PostalCode": "678010",
+      },
+    "Education": [
+        {
+          "Institution": "Madrass University",
+          "Area": "Travandrum",
+          "Degree": "BCOM",
+          "StartDate": "2021",
+          "EndDate": "Ongoing",
+        }
+      ],
+      "work": [
+        {
+          "company": "Carnival Cenimas",
+          "Position": "CCE",
+          "StartDate": "2018",
+          "EndDate": "2020",
+        }
+      ],
+      "Languages": [
+        {
+          "language": "Malayalam,Hindi,English,Tamil,Tulu",
+          "fluency": "Malayalam,Tamil,Tulu"
+        }
+      ],
+      "Interests": [
+        {
+          "Hobbies": "Playing games, Traveling, watching movies, listening songs",
+        }
+      ]
+}
