@@ -1,0 +1,22 @@
+
+var obj = [
+    {Name:"sagar",age:2,company:"guvi"},
+    {Name:"sooraj",age:3,company:"guvi geek"},
+    {Name:"suresh",age:4,company:"guvi geek network"}
+]
+
+for (var i=0; i < obj.length; i++) {
+    console.log(obj[i])
+ }
+
+for (let x in obj) {
+    console.log(obj[x])
+}
+
+obj.forEach(((i)=>{
+    console.log(i);
+}))
+
+for(var i of obj){
+    console.log(i);
+}
